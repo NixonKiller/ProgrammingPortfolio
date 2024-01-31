@@ -16,5 +16,5 @@ OOP graphical game using sound and images for a full user experience.
 ### Calculator 
 OOP calculator using keyboard and mosue for full user experience.
 
-![Gameplay]()
+![Gameplay](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Calc.png?raw=true)https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Calc.png?raw=true
 [Source Code]()
