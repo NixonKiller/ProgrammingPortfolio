@@ -34,9 +34,9 @@ OOP graphical game using keyboard to create drawing on the screen.
 [Source Code]
 (https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/src/EtchAScketch.zip)
 
-### SpaceGame
-OOP graphical game using sound and images for a full user experience. 
+### Conversion
+OOP conversion app allowing user to convert cups to ounces and vice versa.
 
-![Gameplay](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true)https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true)
-
-[Source Code](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/src/SpaceGame%202%202.zip)https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/src/SpaceGame%202%202.zip)
+![Gameplay]
+(https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Conv.png?raw=true)
+[Source Code]
