@@ -9,6 +9,6 @@
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience. 
 
-![Gameplay]([)](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true)https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true
+![Gameplay](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true)https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Space.png?raw=true)
 
 [Source Code]()
