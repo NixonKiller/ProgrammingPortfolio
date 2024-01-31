@@ -22,7 +22,7 @@ OOP calculator using keyboard and mosue for full user experience.
 ### NumberGuessingGame
 OOP number guessing game with user input.
 
-![Gameplay]()
+![Gameplay](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/images/Numb.png?raw=true)
 
 [Source Code](https://github.com/NixonKiller/ProgrammingPortfolio/blob/main/src/Number-Guessing-Game%20(1).zip)
 
