@@ -2,8 +2,8 @@
 
 ## Tech Certifications
 
-## Group Project
-
+## Group Project - Solomonder Affair
+Island Adventrue story with the disappearance of your best friend Solomon who has been turned into a salamander. You are on an illusive siland trying to find Solomonder, but something is trying to stop you...
 ## Individual Projects
 
 ### SpaceGame
