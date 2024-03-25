@@ -5,7 +5,8 @@
 ## Group Project - Solomonder Affair
 Island Adventrue story with the disappearance of your best friend Solomon who has been turned into a salamander. You are on an illusive siland trying to find Solomonder, but something is trying to stop you...
 
-![Gameplay]
+![Gameplay](https://github.com/LiamTGay/Adventure-Story/raw/main/images/Start%20ScreenSGNK.png?raw=true)
+
 [link to Game](https://github.com/LiamTGay/Adventure-Story.git)
 ## Individual Projects
 ### Rad Pi
