@@ -12,7 +12,9 @@ Island Adventrue story with the disappearance of your best friend Solomon who ha
 
 ### Rad Pi
 Interactive unit circle allowing the user to fill in the radians, degrees, and coordinates; inspired by my inability to memorize the Unit circle.
+
 ![Gameplay](https://github.com/NixonKiller/MyGame/raw/main/Images/cirlce.jpeg?raw=true)
+
 [link to Game](https://github.com/NixonKiller/MyGame.git)
 
 ### SpaceGame
