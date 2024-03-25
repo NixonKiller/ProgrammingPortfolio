@@ -9,10 +9,12 @@ Island Adventrue story with the disappearance of your best friend Solomon who ha
 
 [link to Game](https://github.com/LiamTGay/Adventure-Story.git)
 ## Individual Projects
+
 ### Rad Pi
 Interactive unit circle allowing the user to fill in the radians, degrees, and coordinates; inspired by my inability to memorize the Unit circle.
-![Gameplay]
-[link to Game]
+![Gameplay](https://github.com/NixonKiller/MyGame/raw/main/Images/cirlce.jpeg?raw=true)
+[link to Game](https://github.com/NixonKiller/MyGame.git)
+
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience. 
 
