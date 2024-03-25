@@ -5,9 +5,13 @@
 ## Group Project - Solomonder Affair
 Island Adventrue story with the disappearance of your best friend Solomon who has been turned into a salamander. You are on an illusive siland trying to find Solomonder, but something is trying to stop you...
 
+![Gameplay]
 [link to Game](https://github.com/LiamTGay/Adventure-Story.git)
 ## Individual Projects
-
+### Rad Pi
+Interactive unit circle allowing the user to fill in the radians, degrees, and coordinates; inspired by my inability to memorize the Unit circle.
+![Gameplay]
+[link to Game]
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience. 
 
